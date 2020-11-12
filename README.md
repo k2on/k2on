@@ -38,6 +38,9 @@ I do stuff on the web
 <!-- projs ends -->
 </td></tr></table>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [github_badge]: https://img.shields.io/github/followers/k2on?logo=github
 [github_badge_link]: https://github.com/k2on
 [instagram_badge]: https://img.shields.io/badge/-instagram-444?logo=instagram
