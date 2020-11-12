@@ -39,6 +39,9 @@ I do stuff on the web
 </td></tr></table>
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   6 mins          █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 [github_badge]: https://img.shields.io/github/followers/k2on?logo=github
