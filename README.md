@@ -40,9 +40,10 @@ I do stuff on the web
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   6 hrs 23 mins   ███████████████████████░░   91.64 % 
-JSON         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+TypeScript   9 hrs 59 mins   ███████████████████████░░   91.45 % 
+JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
 
