@@ -40,10 +40,11 @@ I do stuff on the web
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 hrs 59 mins   ███████████████████████░░   91.45 % 
-JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript   14 hrs 18 mins  ███████████████████▒░░░░░   76.86 % 
+JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+YAML         1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Markdown     1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 <!--END_SECTION:waka-->
 
