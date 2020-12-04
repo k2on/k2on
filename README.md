@@ -20,8 +20,6 @@ php
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 14 mins   ████████████████████████░   95.45 % 
-Markdown     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript   56 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
