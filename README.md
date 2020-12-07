@@ -20,6 +20,6 @@ php
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       2 hrs 30 mins   █████████████████████████   99.81 % 
 ```
 <!--END_SECTION:waka-->
