@@ -20,6 +20,10 @@ php
 
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 30 mins   █████████████████████████   99.81 % 
+Python       7 hrs 57 mins   ███████████████████▓░░░░░   78.25 % 
+Other        50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+TypeScript   48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 <!--END_SECTION:waka-->
