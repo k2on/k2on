@@ -9,7 +9,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML         1 hr 19 mins    █████████████████████▒░░░   85.15 % 
-JSON         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+
 ```
 <!--END_SECTION:waka-->
