@@ -9,9 +9,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 37 mins   █████████████████▓░░░░░░░   70.31 % 
-TypeScript   59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.48 % 
-Stylus       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Markdown     2 hrs 37 mins   ████████████████████████░   95.63 % 
+Stylus       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 <!--END_SECTION:waka-->
