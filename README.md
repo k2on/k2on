@@ -9,8 +9,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 37 mins   ████████████████████████░   95.63 % 
-Stylus       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
