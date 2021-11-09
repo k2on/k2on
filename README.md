@@ -9,10 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       6 hrs 55 mins   █████████████████████▒░░░   84.84 % 
-TypeScript   49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-PowerShell   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Python     8 hrs 58 mins   ████████████████████████▒   97.38 % 
+Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
