@@ -10,10 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      3 hrs 57 mins   ███████████████████████▓░   94.90 %
-TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Haskell      3 hrs 57 mins   ████████████████████████░   95.41 %
+TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
