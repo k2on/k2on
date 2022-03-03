@@ -10,9 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      3 hrs 57 mins   ████████████████████████░   95.41 %
-TypeScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Haskell      2 hrs 52 mins   █████████████████░░░░░░░░   67.38 %
+TypeScript   1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+JSON         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TableGen     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
